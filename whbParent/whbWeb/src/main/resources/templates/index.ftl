@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head lang="en">
-    <title>Demo Page PDF</title>
+    <title>生产pdf案例</title>
 </head>
 <body>
 <h2>Demo ${title}</h2>

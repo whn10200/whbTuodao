@@ -3,7 +3,15 @@
 <head lang="en">
     <title>Spring Boot Demo - PDF</title>
     <!--<link href="http://localhost:8082/css/index.css" rel="stylesheet" type="text/css"/>-->
-    <link href="http://localhost:8082/css/index.css" rel="stylesheet" type="text/css"/>
+    <link href="http://localhost:8082/css/pdfIndex.css" rel="stylesheet" type="text/css"/>
+    <script>
+    	$(function() {
+		    $('.a').click(function() {
+		        alert('hello world');
+		    });
+		    $("#divsub").html("www.baidu.com");
+		});
+    </script>
     <style>
         @page {
             size: 210mm 297mm; /*设置纸张大小:A4(210mm 297mm)、A3(297mm 420mm) 横向则反过来*/
