@@ -1,4 +1,4 @@
-package com.whb.whbParent;
+package org.whb.test;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

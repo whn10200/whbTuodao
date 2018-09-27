@@ -1,4 +1,4 @@
-package com.whb.whbParent;
+package org.whb.test;
 
 /**
  * Hello world!
