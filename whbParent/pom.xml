@@ -20,6 +20,7 @@
 	
 	<modules>
 		<module>whbTest</module>
+		<module>whbWeb</module>
 	</modules>
 
 
