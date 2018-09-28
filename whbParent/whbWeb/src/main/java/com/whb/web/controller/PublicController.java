@@ -5,10 +5,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
 /**
- * 功能：公共
- *
- * @author qust
- * @version 1.0 2018/2/23 11:56
+ * @author whb
+ * @date 2018年9月28日 下午2:00:51 
+ * @Description: TODO
  */
 @Controller
 public class PublicController {
