@@ -35,6 +35,13 @@
 			<artifactId>flying-saucer-pdf</artifactId>
 			<version>9.1.12</version>
 		</dependency>
+		<!-- JWT 生产token -->
+		<dependency>
+			<groupId>com.nimbusds</groupId>
+			<artifactId>nimbus-jose-jwt</artifactId>
+			<version>4.23</version>
+		</dependency>
+
 
 
 	</dependencies>
